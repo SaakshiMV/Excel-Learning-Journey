@@ -168,9 +168,8 @@ A1:A10
 
 ## Opening Excel
 
-1️⃣ Open **Microsoft Excel**
-
-2️⃣ Click **Blank Workbook**
+- 1️⃣ Open **Microsoft Excel**
+- 2️⃣ Click **Blank Workbook**
 
 ---
 
@@ -222,15 +221,15 @@ A1
 
 To select a cell:
 
-1️⃣ Click any cell
-2️⃣ The cell becomes the **Active Cell**
+- 1️⃣ Click any cell
+- 2️⃣ The cell becomes the **Active Cell**
 
 ---
 
 ## Selecting Multiple Cells
 
-1️⃣ Click and hold your mouse
-2️⃣ Drag across cells
+- 1️⃣ Click and hold your mouse
+- 2️⃣ Drag across cells
 
 Example range selection:
 
@@ -460,3 +459,4 @@ Topics:
 * 📅 Dates
 * 💰 Currency
 * 📊 Percentages
+
